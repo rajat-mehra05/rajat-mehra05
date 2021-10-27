@@ -4,5 +4,5 @@
  <h3> Projects here are mostly for fun/practice. Have a look around! <h3>
 
 <img align="left" alt="GIF" src="https://i.pinimg.com/originals/d4/86/07/d486078ae62ffaa4fba99c36eba1d261.gif" height="230px" width="350px" border-radius="50px" />
-
+<br />
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=rajat-mehra05&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
