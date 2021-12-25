@@ -1,7 +1,8 @@
 <h2> Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>  <span>
 
  <h3> I'm a frontend developer, developing web apps and SPA's with React.js and RESTful APIs in Node.js. </h3>
- <h3> Currently learning Tailwind CSS. </h4>
+ <h3> Open Source contributor at Realdevsquad. </h3> 
+ <h3> Currently learning Tailwind CSS. </h3>
  <h3> Projects here are mostly for fun/practice. Have a look around! <h3>
   
 <p> <img align="center" alt="GIF" src="https://i.pinimg.com/originals/d4/86/07/d486078ae62ffaa4fba99c36eba1d261.gif" height="230px" width="350px" border-radius="50px" /> </p>
