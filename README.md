@@ -1,4 +1,4 @@
-<h2> Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>  <span>
+<h2> Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h2>
 
 <br />
  
