@@ -18,4 +18,4 @@ When I’m not coding, I’m usually playing outdoor games, tackling a Wordle, o
 
 ## Currently buliding
 
-- 📹 **[AI Thumbnail Generator](https://github.com/rajat-mehra05/youtube-thumbnail-generator)
+- 📹 **[AI Thumbnail Generator](https://github.com/rajat-mehra05/youtube-thumbnail-generator)**
