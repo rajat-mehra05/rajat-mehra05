@@ -18,6 +18,6 @@ When I’m not coding, I’m usually playing outdoor games, tackling a Wordle, o
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-## Currently buliding
+## Side Projects
 
-- 📹 **[AI Thumbnail Generator](https://github.com/rajat-mehra05/youtube-thumbnail-generator)**
+- 📹 **[Youtube Video Summariser](https://github.com/rajat-mehra05/yt-video-summariser)** - Paste any YouTube link and get an instant AI-powered summary.
