@@ -18,6 +18,8 @@ When I’m not coding, I’m usually playing outdoor games, tackling a Wordle, o
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-## Side Projects
+## Projects 
 
-- 📹 **[Youtube Video Summariser](https://github.com/rajat-mehra05/yt-video-summariser)** - Paste any YouTube link and get an instant AI-powered summary.
+- 📹 **[Rundownly](https://rundownly.vercel.app/)** - Paste any YouTube link and get an instant AI-powered summary.
+- 🎙️ **[youtube-transcript-api-js](npmjs.com/package/youtube-transcript-api-js)** - A zero-dependency JS/TS library for fetching YouTube transcripts and subtitles, no API keys required.
+- 📰 **[hackerpedia](https://hackerpedia.vercel.app/)** - A slicker, smarter Hacker News because the original deserves a glow-up.
