@@ -4,7 +4,7 @@
  
 **About me**
 
-💼 I'm a FrontEnd Engineer and I have a passion for building scalable applications, specializing in modern web technologies and AI-powered solutions.
+💼 I'm an AI-native Full Stack Engineer with 3+ years of experience and I have a passion for building scalable applications, specializing in modern web technologies and AI-powered solutions.
 I care deeply about accessibility and believe great design should include everyone. <br />
 When I’m not coding, I’m usually playing outdoor games, tackling a Wordle, or heading out on a trek.
 
