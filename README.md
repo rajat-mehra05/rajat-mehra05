@@ -20,7 +20,7 @@ When I’m not coding, I’m usually playing outdoor games, tackling a Wordle, o
 
 ## Projects 
 
-- ⚡ **[Mock Feedback](https://mock-feedback.vercel.app/)** - AI-powered mock interviewer for voice-driven technical interview practice with real-time feedback & ratings.
+- ⚡ **[VoiceRound](https://voice-round.vercel.app/)** - AI-powered mock interviewer for voice-driven technical interview practice with real-time feedback & ratings.
 - 📹 **[Rundownly](https://rundownly.vercel.app/)** - Paste any YouTube link and get an instant AI-powered summary.
 - 🎙️ **[youtube-transcript-api-js](https://www.npmjs.com/package/youtube-transcript-api-js)** - A zero-dependency JS/TS library for fetching YouTube transcripts and subtitles, no API keys required (400+ weekly downloads)
 - 📰 **[Hackerpedia](https://hackerpedia.vercel.app/)** - A slicker, smarter Hacker News because the original deserves a glow-up.
